@@ -1,0 +1,7 @@
+# Ignore __pycache__ directories
+__pycache__/
+
+# Ignore all files in the dataset folder
+
+tmodel_00.pt
+tmodel_01.pt
