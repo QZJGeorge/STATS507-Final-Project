@@ -63,7 +63,7 @@ Our pre-trained model achieved a Precision score of 0.795, Recall score of 0.766
 
 # Troubleshooting
 
-If you encounter the error `torch.cuda.OutOfMemoryError`, open `config.py` and reduce the training batch size.
+If you encounter the error `torch.cuda.OutOfMemoryError`, open `config.py` and reduce the batch size.
 
 # Developer
 
