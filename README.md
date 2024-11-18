@@ -1,6 +1,6 @@
 # Transformer for English-to-Chinese Translation
 
-This repository implements a seminal transformer design inspired by the principles outlined in the paper [Attention is All You Need](https://arxiv.org/abs/1706.03762). The coding implementation was adopted from a [tutorial](https://www.youtube.com/watch?v=ISNdQcPhsts) made by Umar Jamil.
+This repository implements a seminal transformer design inspired by the principles outlined in the paper [Attention is All You Need](https://arxiv.org/abs/1706.03762). The coding implementation was adopted from a [tutorial](https://www.youtube.com/watch?v=ISNdQcPhsts) made by Umar Jamil. More details can be found at `Project Report Zhijie Qiao.pdf`.
 
 The model is trained on the English-Chinese section of the [OPUS-100 dataset](https://huggingface.co/datasets/Helsinki-NLP/opus-100) on Hugging Face. 
 
